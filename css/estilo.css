@@ -68,8 +68,13 @@ em:hover {
 
 .cardPresentaciones {
     border: none;
+    cursor: pointer;
 }
 .imagenCard {
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
+}
+
+.video {
+   border-radius: 40px; 
 }
